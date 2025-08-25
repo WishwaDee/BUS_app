@@ -80,6 +80,6 @@ class SeatSelectionActivity : AppCompatActivity() {
 
     private fun updateSelection(seatPrice: Int) {
         selectedCountTextView.text = "${selectedSeats.size} seat(s) selected"
-        totalAmountTextView.text = "$${selectedSeats.size * seatPrice}"
+        totalAmountTextView.text = "\$${selectedSeats.size * seatPrice}"
     }
 }

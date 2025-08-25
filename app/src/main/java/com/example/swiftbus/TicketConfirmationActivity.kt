@@ -27,7 +27,7 @@ class TicketConfirmationActivity : AppCompatActivity() {
         ticketNumberTextView.text = ticketNumber
         busNameTextView.text = busName
         seatsTextView.text = selectedSeats
-        amountTextView.text = "$$totalAmount"
+        amountTextView.text = "\$${totalAmount}"
 
         viewBookingsButton.setOnClickListener {
             startActivity(Intent(this, MyBookingsActivity::class.java))

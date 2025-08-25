@@ -13,7 +13,7 @@ class BusDetailsActivity : AppCompatActivity() {
         setContentView(R.layout.activity_bus_details)
 
         val busName = intent.getStringExtra("busName") ?: "Unknown Bus"
-        val busPrice = intent.getStringExtra("busPrice") ?: "$0"
+        val busPrice = intent.getStringExtra("busPrice") ?: "\$0"
 
         val busNameTextView = findViewById<TextView>(R.id.tvBusName)
         val busPriceTextView = findViewById<TextView>(R.id.tvBusPrice)

@@ -23,21 +23,21 @@ class SearchResultsActivity : AppCompatActivity() {
         bus1Card.setOnClickListener {
             val intent = Intent(this, BusDetailsActivity::class.java)
             intent.putExtra("busName", "Swift Express")
-            intent.putExtra("busPrice", "$45")
+            intent.putExtra("busPrice", "\$45")
             startActivity(intent)
         }
 
         bus2Card.setOnClickListener {
             val intent = Intent(this, BusDetailsActivity::class.java)
             intent.putExtra("busName", "Comfort Travels")
-            intent.putExtra("busPrice", "$38")
+            intent.putExtra("busPrice", "\$38")
             startActivity(intent)
         }
 
         bus3Card.setOnClickListener {
             val intent = Intent(this, BusDetailsActivity::class.java)
             intent.putExtra("busName", "Royal Rides")
-            intent.putExtra("busPrice", "$52")
+            intent.putExtra("busPrice", "\$52")
             startActivity(intent)
         }
     }

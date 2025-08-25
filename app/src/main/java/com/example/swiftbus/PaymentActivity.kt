@@ -21,7 +21,7 @@ class PaymentActivity : AppCompatActivity() {
         val totalAmountTextView = findViewById<TextView>(R.id.tvTotalAmount)
         val payNowButton = findViewById<Button>(R.id.btnPayNow)
 
-        totalAmountTextView.text = "$$totalAmount"
+        totalAmountTextView.text = "\$${totalAmount}"
 
         payNowButton.setOnClickListener {
             // Simulate payment processing
