@@ -28,9 +28,9 @@ class BookingSummaryActivity : AppCompatActivity() {
 
         busNameTextView.text = busName
         selectedSeatsTextView.text = "Seats: $selectedSeats"
-        baseFareTextView.text = "$$totalAmount"
-        taxesTextView.text = "$$taxes"
-        totalFareTextView.text = "$$finalAmount"
+        baseFareTextView.text = "\$${totalAmount}"
+        taxesTextView.text = "\$${taxes}"
+        totalFareTextView.text = "\$${finalAmount}"
 
         proceedButton.setOnClickListener {
             val intent = Intent(this, PaymentActivity::class.java)
