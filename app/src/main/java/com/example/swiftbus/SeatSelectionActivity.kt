@@ -6,6 +6,7 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.gridlayout.widget.GridLayout
+import kotlin.math.absoluteValue
 
 class SeatSelectionActivity : AppCompatActivity() {
 
@@ -57,7 +58,7 @@ class SeatSelectionActivity : AppCompatActivity() {
                 seatButton.setBackgroundResource(R.drawable.seat_background)
                 
                 // Random booked seats for demo
-                val isBooked = (seatNumber.hashCode() % 10) < 2
+                val isBooked = (seatNumber.hashCode().absoluteValue % 10) < 2
                 if (isBooked) {
                     seatButton.isEnabled = false
                 }
