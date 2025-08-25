@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">SwiftBus</string>
+    
+    <!-- Common -->
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="search">Search</string>
+    <string name="book_now">Book Now</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="my_bookings">My Bookings</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding1_title">Find Your Bus</string>
+    <string name="onboarding1_desc">Search and find buses for your destination with real-time availability</string>
+    <string name="onboarding2_title">Choose Your Seat</string>
+    <string name="onboarding2_desc">Select your preferred seat from our interactive seat map</string>
+    <string name="onboarding3_title">Quick Booking</string>
+    <string name="onboarding3_desc">Book your tickets instantly and travel with confidence</string>
+    
+    <!-- Login/Signup -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to continue your journey</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_subtitle">Join SwiftBus today and start traveling</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    
+    <!-- Home -->
+    <string name="where_to_go">Where do you want to go?</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="search_buses">Search Buses</string>
+    <string name="popular_routes">Popular Routes</string>
+    <string name="recent_searches">Recent Searches</string>
+    
+    <!-- Search Results -->
+    <string name="search_results">Search Results</string>
+    <string name="buses_found">buses found</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="duration">Duration</string>
+    <string name="seats_available">seats available</string>
+    <string name="starting_from">Starting from</string>
+    
+    <!-- Bus Details -->
+    <string name="bus_details">Bus Details</string>
+    <string name="amenities">Amenities</string>
+    <string name="pickup_points">Pickup Points</string>
+    <string name="drop_points">Drop Points</string>
+    <string name="reviews">Reviews</string>
+    <string name="rating">Rating</string>
+    <string name="select_seats">Select Seats</string>
+    
+    <!-- Seat Selection -->
+    <string name="seat_selection">Seat Selection</string>
+    <string name="available">Available</string>
+    <string name="selected">Selected</string>
+    <string name="booked">Booked</string>
+    <string name="seats_selected">seat(s) selected</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="continue_booking">Continue</string>
+    
+    <!-- Booking Summary -->
+    <string name="booking_summary">Booking Summary</string>
+    <string name="passenger_details">Passenger Details</string>
+    <string name="journey_details">Journey Details</string>
+    <string name="fare_breakdown">Fare Breakdown</string>
+    <string name="base_fare">Base Fare</string>
+    <string name="taxes">Taxes &amp; Fees</string>
+    <string name="total_fare">Total Fare</string>
+    <string name="proceed_payment">Proceed to Payment</string>
+    
+    <!-- Payment -->
+    <string name="payment">Payment</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="credit_debit_card">Credit/Debit Card</string>
+    <string name="upi">UPI</string>
+    <string name="net_banking">Net Banking</string>
+    <string name="wallet">Wallet</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="secure_payment">Secure Payment Guaranteed</string>
+    
+    <!-- Ticket Confirmation -->
+    <string name="booking_confirmed">Booking Confirmed!</string>
+    <string name="ticket_number">Ticket Number</string>
+    <string name="download_ticket">Download Ticket</string>
+    <string name="share_ticket">Share Ticket</string>
+    <string name="view_bookings">View All Bookings</string>
+    <string name="booking_success_msg">Your ticket has been booked successfully. Have a safe journey!</string>
+    
+    <!-- My Bookings -->
+    <string name="upcoming_trips">Upcoming Trips</string>
+    <string name="completed_trips">Completed Trips</string>
+    <string name="cancelled_trips">Cancelled Trips</string>
+    <string name="view_ticket">View Ticket</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_trips">My Trips</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="notifications">Notifications</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="save_changes">Save Changes</string>
+</resources>

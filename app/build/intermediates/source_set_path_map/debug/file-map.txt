@@ -1,0 +1,35 @@
+com.example.swiftbus.app-fragment-1.3.6-0 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\02d14f6409cf8c028f0fab9b5a4e0d45\transformed\fragment-1.3.6\res
+com.example.swiftbus.app-lifecycle-livedata-core-2.6.1-1 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\0309e769139ea97761833f90ebc5c922\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.swiftbus.app-lifecycle-livedata-2.6.1-2 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\1e20bd961db7b11d307bde7867e80ddb\transformed\lifecycle-livedata-2.6.1\res
+com.example.swiftbus.app-profileinstaller-1.3.0-3 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\21da31189b109a1aa36f452b04290f96\transformed\profileinstaller-1.3.0\res
+com.example.swiftbus.app-annotation-experimental-1.3.0-4 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\27d5c72941c540de48c3fcee3d59442a\transformed\annotation-experimental-1.3.0\res
+com.example.swiftbus.app-customview-poolingcontainer-1.0.0-5 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\27f1b981b83e0285357c6f2e0c862beb\transformed\customview-poolingcontainer-1.0.0\res
+com.example.swiftbus.app-transition-1.2.0-6 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\28385a7f95f032e79f2af6ef5b86f563\transformed\transition-1.2.0\res
+com.example.swiftbus.app-cardview-1.0.0-7 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\2be467cb9b593b1a0c8b56a36b99436a\transformed\cardview-1.0.0\res
+com.example.swiftbus.app-core-1.12.0-8 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\32b769c04307e8cc6aa5359cb2a44943\transformed\core-1.12.0\res
+com.example.swiftbus.app-emoji2-views-helper-1.2.0-9 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\3b2dae66630fe322b863bbc1f6e6dc23\transformed\emoji2-views-helper-1.2.0\res
+com.example.swiftbus.app-emoji2-1.2.0-10 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\3f48e6e65a7a1fb6c52612337da336ff\transformed\emoji2-1.2.0\res
+com.example.swiftbus.app-core-ktx-1.12.0-11 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\50e3257c1e6101bd9336bc90f2a0ef40\transformed\core-ktx-1.12.0\res
+com.example.swiftbus.app-appcompat-resources-1.6.1-12 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\695b8bde78bc8388f7d66a536b2648e6\transformed\appcompat-resources-1.6.1\res
+com.example.swiftbus.app-savedstate-1.2.1-13 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\75ed5c408724820cf6c4df7c704790d5\transformed\savedstate-1.2.1\res
+com.example.swiftbus.app-recyclerview-1.3.2-14 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\820252f59cb6bfae3fb061b7aa883414\transformed\recyclerview-1.3.2\res
+com.example.swiftbus.app-startup-runtime-1.1.1-15 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\8bd6f6f23c4cebb489eb0a2d1d11fb09\transformed\startup-runtime-1.1.1\res
+com.example.swiftbus.app-material-1.11.0-16 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\9e6c7bbba4c75168902348e8d2e84d85\transformed\material-1.11.0\res
+com.example.swiftbus.app-core-runtime-2.2.0-17 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\a5ad7344c2543f2d5c077162042c831c\transformed\core-runtime-2.2.0\res
+com.example.swiftbus.app-lifecycle-viewmodel-savedstate-2.6.1-18 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\a7919757ebb77fd8f7bc38b9a8d04cfb\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.swiftbus.app-drawerlayout-1.1.1-19 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\ad03d74f9d54164712bda271dd16407d\transformed\drawerlayout-1.1.1\res
+com.example.swiftbus.app-appcompat-1.6.1-20 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\adddbe81a9975fe2cf583f2ce5276c6f\transformed\appcompat-1.6.1\res
+com.example.swiftbus.app-lifecycle-viewmodel-2.6.1-21 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\b7c132ab409fbe5422eba07bfe358f49\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.swiftbus.app-constraintlayout-2.1.4-22 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\c46c737ddbeab9b3c81632b0732afb79\transformed\constraintlayout-2.1.4\res
+com.example.swiftbus.app-coordinatorlayout-1.1.0-23 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\d441f88d033d31c1d6cde4b68551185d\transformed\coordinatorlayout-1.1.0\res
+com.example.swiftbus.app-lifecycle-runtime-2.6.1-24 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\d99f98e7d666354e3f772db860a72892\transformed\lifecycle-runtime-2.6.1\res
+com.example.swiftbus.app-viewpager2-1.1.0-beta02-25 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\da2ada0273c881457aa479e27e3e6eea\transformed\viewpager2-1.1.0-beta02\res
+com.example.swiftbus.app-lifecycle-process-2.6.1-26 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\f85bbe1ead417c9c9e83509cd46d3f74\transformed\lifecycle-process-2.6.1\res
+com.example.swiftbus.app-activity-1.8.0-27 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\f936651fbad251cad19f427a45d6e758\transformed\activity-1.8.0\res
+com.example.swiftbus.app-pngs-28 D:\BUSAPP\project\app\build\generated\res\pngs\debug
+com.example.swiftbus.app-resValues-29 D:\BUSAPP\project\app\build\generated\res\resValues\debug
+com.example.swiftbus.app-packageDebugResources-30 D:\BUSAPP\project\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.swiftbus.app-packageDebugResources-31 D:\BUSAPP\project\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.swiftbus.app-merged_res-32 D:\BUSAPP\project\app\build\intermediates\merged_res\debug
+com.example.swiftbus.app-debug-33 D:\BUSAPP\project\app\src\debug\res
+com.example.swiftbus.app-main-34 D:\BUSAPP\project\app\src\main\res
